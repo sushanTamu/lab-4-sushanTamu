@@ -1,0 +1,16 @@
+[ERROR] 2023-09-22 22:29:02 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-09-22 22:29:07 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 36377
+[ERROR] 2023-09-26 03:38:13 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-09-26 03:38:18 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 37322
+[ERROR] 2023-09-26 03:38:47 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-09-26 03:38:53 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 46246
+[ERROR] 2023-09-26 05:10:09 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-09-26 05:10:14 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 43994
+[ERROR] 2023-09-27 02:01:14 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-09-27 02:01:20 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 45508
+[ERROR] 2023-09-27 03:20:35 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-09-27 03:20:41 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 40481
+[ERROR] 2023-09-27 03:42:09 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-09-27 03:42:15 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 36221
+[ERROR] 2023-09-27 03:46:09 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-09-27 03:46:15 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 39456
